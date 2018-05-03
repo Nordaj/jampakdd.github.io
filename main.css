@@ -5,10 +5,18 @@
 	color: #ffe8ca;
 	font-family: arial;
 	font-size: 48;
+    wodth: 75%;
 
 }
+
 .tabcontent
 {
 	color: white;
-	text-align: left;
+	text-align: center;
+    width: 50%;
+}
+
+#tab-text-left
+{
+    text-align: left;
 }
